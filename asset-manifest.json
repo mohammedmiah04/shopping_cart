@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Reducer_shoppingCar/static/css/main.35134b96.chunk.css",
+    "main.js": "/Reducer_shoppingCar/static/js/main.b00086dc.chunk.js",
+    "main.js.map": "/Reducer_shoppingCar/static/js/main.b00086dc.chunk.js.map",
+    "runtime-main.js": "/Reducer_shoppingCar/static/js/runtime-main.e370fc57.js",
+    "runtime-main.js.map": "/Reducer_shoppingCar/static/js/runtime-main.e370fc57.js.map",
+    "static/js/2.26c50d63.chunk.js": "/Reducer_shoppingCar/static/js/2.26c50d63.chunk.js",
+    "static/js/2.26c50d63.chunk.js.map": "/Reducer_shoppingCar/static/js/2.26c50d63.chunk.js.map",
+    "index.html": "/Reducer_shoppingCar/index.html",
+    "precache-manifest.ee786e3c5f25012c0af1458076681b50.js": "/Reducer_shoppingCar/precache-manifest.ee786e3c5f25012c0af1458076681b50.js",
+    "service-worker.js": "/Reducer_shoppingCar/service-worker.js",
+    "static/css/main.35134b96.chunk.css.map": "/Reducer_shoppingCar/static/css/main.35134b96.chunk.css.map",
+    "static/js/2.26c50d63.chunk.js.LICENSE.txt": "/Reducer_shoppingCar/static/js/2.26c50d63.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e370fc57.js",
+    "static/js/2.26c50d63.chunk.js",
+    "static/css/main.35134b96.chunk.css",
+    "static/js/main.b00086dc.chunk.js"
+  ]
+}
